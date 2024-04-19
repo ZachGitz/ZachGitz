@@ -2,8 +2,7 @@
 
 
 - 👀 I’m interested in AI Electronics and Software.
-- 🌱 I’m currently learning DSA.
-- 📫 How to reach me [Instagram](https://www.instagram.com/rexxkingz/)
+- 📫 How to reach me [Instagram](https://www.instagram.com/zachafk/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachgitz&label=Profile%20views&color=0e75b6&style=flat" alt="zachgitz" /> </p>
 
