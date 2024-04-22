@@ -12,10 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@zaach24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaach24" height="30" width="40" /></a>
-<a href="https://instagram.com/rexxkingz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rexxkingz" height="30" width="40" /></a>
+<a href="https://instagram.com/zachafk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rexxkingz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zachh24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zachh24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zach24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zach24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
